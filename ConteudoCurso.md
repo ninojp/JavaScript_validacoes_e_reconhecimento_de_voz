@@ -40,3 +40,16 @@ Por fim, o instrutor menciona a intenção de manipular os valores mínimo e má
 
 ### Aula 02 - Manipulando menor e maior valor - Video 2
 
+Nesta aula, o instrutor discute sobre a manipulação de valores em uma aplicação. Ele menciona a criação de constantes para representar o menor e o maior valor possível. O objetivo é que esses valores possam ser facilmente alterados e que o sorteio de um número seja feito com base neles. O instrutor utiliza a função Math.random() para gerar um número aleatório entre 0 e 1 e multiplica esse número pelo maior valor. Ele destaca a necessidade de ajustar a fórmula para que o maior valor seja inclusivo, adicionando "+ 1". Em seguida, ele mostra como exibir os valores do menor e do maior na tela da aplicação. O instrutor destaca que essa manipulação dos valores está funcionando corretamente, pois o número sorteado também está dentro do intervalo definido pelos valores mínimo e máximo.
+
+### Aula 02 - O que aprendemos? Nesta aula:
+
+Criamos a pasta para manter todo código JavaScript, fizemos o import do script no HTML, e criamos a escolha de um número pseudo-aleatório;
+
+Manipulamos o menor e o maior valor de forma dinâmica, modificando o conteúdo do HTML através do JavaScript.
+
+## Aula 03 - Definindo a voz com Web Speech
+
+### Aula 03 - Web speech API - Video 1
+
+Nesta aula, o instrutor aborda a implementação do reconhecimento de fala em um projeto utilizando a Web Speech API. Ele explica como configurar a API, incluir o suporte no código JavaScript e iniciar o reconhecimento de fala. O instrutor destaca a importância de utilizar o Google Chrome devido à sua compatibilidade com a API.
