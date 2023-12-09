@@ -83,6 +83,28 @@ Aprendemos como manipular os dados de voz reconhecidos;
 
 Vimos como exibir o que foi falado na tela.
 
-## Aula 04 - 
+## Aula 04 - Criando a Lógica do jogo
 
-### Aula 04 -  - Video 1
+### Aula 04 - Validações - Video 1
+
+Nesta aula, o instrutor explica como realizar validações em um valor digitado pelo usuário. Ele cria a função "verificaSeOChutePossuiUmValorValido(chute)" para realizar essas validações, verificando se o valor é um número inteiro e se está dentro do intervalo permitido. O instrutor também menciona a possibilidade de extrair essas verificações para funções globais, como "chuteForInvalido(numero)" e "numeroForMaiorOuMenorQueOValorPermitido(numero)". Ele realiza testes para verificar o funcionamento das validações. No próximo trecho, ele irá explicar como exibir mensagens na tela e verificar o caso de sucesso de acertar o número secreto.
+
+### Aula 04 - Acertando o número secreto - Video 2
+
+Nesta aula, o instrutor ensina como exibir mensagens na tela em vez de no console. Ele mostra como adicionar uma div com a mensagem "Você disse" e o valor do chute do usuário. Também explica como exibir mensagens de "Valor inválido" quando o usuário digita um valor não numérico ou fora do intervalo permitido. Além disso, o instrutor mostra como exibir a mensagem de "Você acertou!" quando o usuário acerta o número secreto, substituindo todo o conteúdo da página. Ele também ensina a aumentar o tamanho da fonte utilizando CSS.
+
+### Aula 04 - Criando as dicas  - Video 3
+
+Nesta aula, o instrutor explica como funciona uma função que verifica se um chute em um jogo possui um valor válido. Caso o chute seja inválido, uma mensagem de "Valor inválido" é exibida. Se o número chutado for maior ou menor que o valor permitido, a função também retorna uma mensagem correspondente. Se o número for válido, mas não igual ao número secreto, a função exibe uma mensagem indicando se o número secreto é maior ou menor que o chute. O instrutor também menciona a adição de dicas visuais, como setas para cima ou para baixo, para indicar se o número secreto é maior ou menor que o chute. Além disso, o instrutor mostra como fazer com que o reconhecimento de voz continue funcionando mesmo após o jogo ter sido encerrado. Por fim, o instrutor desafia o espectador a testar o jogo e realizar melhorias, como adicionar botões e tornar o jogo mais interativo.
+
+### Aula 04 Conclusão - O que aprendemos? Nesta aula:
+
+Aprendemos como validar os dados de entrada de áudio;
+
+Criamos a tela de sucesso, caso o chute seja igual ao número secreto;
+
+Adicionamos informações caso o dado de entrada seja válido, porém, diferente do objetivo.
+
+## Aula 05 - Publicando e Compartilhando
+
+### Aula 05 - Criando o botão jogar novamente - Video 1
