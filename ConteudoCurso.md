@@ -108,3 +108,20 @@ Adicionamos informações caso o dado de entrada seja válido, porém, diferente
 ## Aula 05 - Publicando e Compartilhando
 
 ### Aula 05 - Criando o botão jogar novamente - Video 1
+
+Nesta aula, o instrutor discute a implementação de um botão "Jogar novamente" em um jogo de adivinhação em JavaScript. Ele mostra como adicionar um evento de clique ao botão e recarregar a página usando window.location.reload() para reiniciar o jogo. Além disso, o instrutor ensina como estilizar o botão usando CSS. No final, ele menciona que o próximo passo será colocar o jogo em produção.
+
+### Aula 05 - Publicando o jogo - Video 2
+
+Nesta aula, o palestrante mostra como publicar um jogo de número secreto com reconhecimento de voz no GitHub e hospedá-lo na plataforma Vercel. Ele cria um novo repositório no GitHub, faz o upload dos arquivos do jogo e realiza o commit das mudanças. Em seguida, ele importa o repositório para a Vercel e realiza o deploy do jogo. O palestrante demonstra o funcionamento do jogo, onde o jogador precisa adivinhar um número secreto falando os palpites em voz alta. Ele finaliza o vídeo mostrando entusiasmo com o resultado do jogo e a possibilidade de compartilhá-lo com outras pessoas.
+
+### Aula 05 Conclusão - O que aprendemos? Nesta aula:
+
+Para melhorar a experiência de quem for jogar, criamos um botão para jogar novamente na tela de acerto;
+
+Colocamos o jogo no GitHub e publicamos através da Vercel;
+
+### Aula 05 - Conclusão - Video 3
+
+Nesta aula do curso "JavaScript: validações e reconhecimento de voz", foi abordado o tema de publicação e compartilhamento do jogo desenvolvido durante o treinamento. O jogo utiliza o reconhecimento de voz para acertar um número secreto e foi dividido em diferentes pastas para sortear o número, fazer validações e utilizar a API de reconhecimento de voz do Web Speech API. Além disso, foi mencionado que o jogo foi hospedado na plataforma Vercel para que todos pudessem jogar. O objetivo do treinamento foi proporcionar diversão aos participantes e ensinar conceitos importantes de JavaScript. Ao final do treinamento, foi solicitado aos participantes que deixassem um depoimento e avaliassem o curso
+
